@@ -58,9 +58,11 @@ endmodule
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+
 ![DV](https://github.com/Munimadhuriganji/ENCODER8TO3DATAFLOW/assets/138849444/41947c98-3aaf-44aa-bdc2-21f892a329a3)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+
 ![XCC](https://github.com/Munimadhuriganji/ENCODER8TO3DATAFLOW/assets/138849444/ffb2935f-1c4e-4fae-a7ce-eb85c413f7e2)
 
 **RESULTS**
